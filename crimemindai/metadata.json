@@ -1,0 +1,6 @@
+{
+  "name": "CrimeMind AI",
+  "description": "Intelligent Crime Investigation Copilot & Predictive Crime Intelligence Platform for State Crime Records Bureau investigators.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
