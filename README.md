@@ -46,5 +46,5 @@ Prototype developed for an AI Datathon.
 
 ## 👨‍💻 Author
 
-S Keerthi
-M Sri Saranya
+**S Keerthi**
+**M Sri Saranya**
